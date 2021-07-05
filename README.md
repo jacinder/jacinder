@@ -22,6 +22,7 @@ I'm interested in DL & ML and embedded system.<br><br>
 -------------
 Handong University Deep Learning Lab 2020.05.01 ~ <br>
 Embedded System 2021 Spring <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">Final Project repo</a> <a href = "https://github.com/jacinder/embedded_PA">PA repo</a> 
+Machine Learning camp 2020 
 
 
 🛠Tech stack🛠
@@ -33,6 +34,8 @@ Embedded System 2021 Spring <a href = "https://github.com/jacinder/DesignSimpleR
 <img src="https://img.shields.io/badge/-Java-red?logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-PyTorch-yellow?logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-sklearn-important?logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-ARM-violet"/></a>
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjacinder&count_bg=%23E77FBB&title_bg=%23335784&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>  
