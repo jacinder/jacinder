@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 [![jacinder's github stats](https://github-readme-stats.vercel.app/api?username=jacinder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://img.shields.io/badge/-machine%20learning-yellowgreen?style=flat-square&logo=#F7931E&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-machine%20learning-yellowgreen?style=flat-square&logo=#F7931E&logoColor=white"/></a>&nbsp 
