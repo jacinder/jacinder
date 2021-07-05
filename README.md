@@ -22,7 +22,7 @@ I'm interested in DL & ML and embedded system.<br>
 -------------
 Handong University Deep Learning Lab 2020.05.01 ~ <br>
 Deep learning/machine learning based anomaly detection for smart factory project <br>
-Embedded System 2021 Spring Semester <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">Final Project repo</a> <a href = "https://github.com/jacinder/embedded_PA">PA repo</a> <br>
+Embedded System 2021 Spring Semester <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">Final Project repo</a> / <a href = "https://github.com/jacinder/embedded_PA">PA repo</a> <br>
 Machine Learning camp 2020.1.13 ~ 2020.1.22  <a href = "https://github.com/jacinder/2020_MLcamp">Machine Learning Camp repo</a>
 
 
