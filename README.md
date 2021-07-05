@@ -18,3 +18,14 @@ Here are some ideas to get you started:
 I'm interested in..
 <img src="https://img.shields.io/badge/-Machine%20Learning-yellowgreen"/></a>
 <img src="https://img.shields.io/badge/-embedded-ff69b4"/></a>
+
+🛠Tech stack🛠
+<!-- <img src="?style=flat-square&logo=&logoColor=white"/></a> -->
+<img src="https://img.shields.io/badge/-C-orange?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-PyTorch-yellow?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-sklearn-important?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+
+
