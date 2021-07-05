@@ -21,8 +21,8 @@ I'm interested in DL & ML and embedded system.<br><br>
 👩🏻‍💻Experience & Education
 -------------
 Handong University Deep Learning Lab 2020.05.01 ~ <br>
-Embedded System 2021 Spring <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">Final Project repo</a> <a href = "https://github.com/jacinder/embedded_PA">PA repo</a> 
-Machine Learning camp 2020 
+Embedded System 2021 Spring <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">Final Project repo</a> <a href = "https://github.com/jacinder/embedded_PA">PA repo</a> <br>
+Machine Learning camp 2020.1.13 ~ 2020.1.22  <a href = "https://github.com/jacinder/2020_MLcamp">Machine Learning Camp repo</a>
 
 
 🛠Tech stack🛠
