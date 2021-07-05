@@ -21,11 +21,11 @@ I'm interested in..
 
 🛠Tech stack🛠
 <!-- <img src="?style=flat-square&logo=&logoColor=white"/></a> -->
-<img src="https://img.shields.io/badge/-C-orange?&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-PyTorch-yellow?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-sklearn-important?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-C-orange?logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-MySQL-blue?logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Java-red?logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-PyTorch-yellow?logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-sklearn-important?logo=scikit-learn&logoColor=white"/></a>
 
 
