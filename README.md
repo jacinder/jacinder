@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjacinder&count_bg=%23E77FBB&title_bg=%23335784&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>  
 [![jacinder's github stats](https://github-readme-stats.vercel.app/api?username=jacinder)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Machine%20Learning-yellowgreen?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+I'm interested in..
+<img src="https://img.shields.io/badge/-Machine%20Learning-yellowgreen"/></a>
+<img src="https://img.shields.io/badge/-embedded-ff69b4"/></a>
