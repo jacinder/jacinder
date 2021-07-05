@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi there!
-I'm GOEUN LEE, an undergraduate at Handong Global University.
-I'm interested in DL & ML and embedded system.
+###👋 Hi there!
+I'm GOEUN LEE, an undergraduate at Handong Global University.<br>
+I'm interested in DL & ML and embedded system.<br><br>
 
-👩🏻‍💻Experience & Education
-Handong University Deep Learning Lab 2020.05.01 ~
-Embedded System 2021 Spring [Final Project](https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE,"project link")
+###👩🏻‍💻Experience & Education
+Handong University Deep Learning Lab 2020.05.01 ~ <br>
+Embedded System 2021 Spring [Final Project](https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE,"project link")<br>
 
 
-🛠Tech stack🛠
+###🛠Tech stack🛠
 <!-- <img src="?style=flat-square&logo=&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/-C-orange?logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/></a>
