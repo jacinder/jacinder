@@ -26,7 +26,7 @@ Embedded System 2021 Spring Semester <a href = "https://github.com/jacinder/Desi
 Machine Learning camp 2020.1.13 ~ 2020.1.22  <a href = "https://github.com/jacinder/2020_MLcamp">Machine Learning Camp repo</a>
 
 
-🛠Tech stack🛠
+🛠 Tech stack
 -------------
 <!-- <img src="?style=flat-square&logo=&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/-C-orange?logo=C&logoColor=white"/></a>
