@@ -23,7 +23,7 @@ I'm interested in DL & ML and embedded system.<br>
 Handong University Computer Science 2018.02.26 ~ <br>
 Handong University Deep Learning Lab 2020.05.01 ~ <br>
 * 2020 Winter Vacation | Machine Learning camp   <a href = "https://github.com/jacinder/2020_MLcamp">Machine Learning Camp repo</a>
-* 2020 Summer ~ | Machine Learning based anomaly detection for smart factory project <br>
+* 2020 Summer ~ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;| Machine Learning based anomaly detection for smart factory project <br>
 * 2021 Spring Semester | Embedded System Design <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">Final Project repo</a> / <a href = "https://github.com/jacinder/embedded_PA">PA repo</a> <br>
 
 🛠 Tech stack
