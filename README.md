@@ -20,6 +20,7 @@ I'm interested in DL & ML and embedded system.<br>
 
 👩🏻‍💻Experience & Education
 -------------
+Handong University Computer Science 2018.02.26 ~ <br>
 Handong University Deep Learning Lab 2020.05.01 ~ <br>
 * 2020 Winter Vacation | Machine Learning camp   <a href = "https://github.com/jacinder/2020_MLcamp">Machine Learning Camp repo</a>
 * 2020 Summer ~ | Deep learning/machine learning based anomaly detection for smart factory project <br>
