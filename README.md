@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 👋 Hi there!
 -------------
 I'm GOEUN LEE, an undergraduate at Handong Global University.<br>
-I'm interested in DL & ML and embedded system.<br>
+I'm interested in DL & ML and Embedded System.<br>
 
 👩🏻‍💻Experience & Education
 -------------
