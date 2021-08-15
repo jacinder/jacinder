@@ -32,7 +32,6 @@ Handong University Deep Learning Lab 2020.05 ~ <br>
 <img src="https://img.shields.io/badge/-C-orange?logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-MySQL-blue?logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Java-red?logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-PyTorch-yellow?logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-sklearn-important?logo=scikit-learn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-ARM-violet"/></a>
