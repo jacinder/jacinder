@@ -24,7 +24,8 @@ Handong University Computer Science 2018.02 ~ <br>
 Handong University Deep Learning Lab 2020.05 ~ <br>
 * 2020.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; | Machine Learning camp   <a href = "https://github.com/jacinder/2020_MLcamp">Machine Learning Camp repo</a>
 * 2020.07 ~ 2021.07 | Machine Learning based anomaly detection for smart factory project <br>
-* 2021.03 ~ 2021.06 | Embedded System Design <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">Final Project repo</a> / <a href = "https://github.com/jacinder/embedded_PA">PA repo</a> <br>
+* 2021.05 ~ 2021.06 | Embedded Project using NUCLEOF411RE <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">/Design Simple Roadway System Prjoect Repo</a>
+* 2021.04 ~ 2021.06 | Korean Reunification Paper & Scolar Documents Search Engine
 * 2021.08 ~&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;| TTS project<br>
 
 🛠 Tech stack
