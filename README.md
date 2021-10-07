@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 👋 Hi there!
 -------------
-I'm GOEUN LEE, an undergraduate at Handong Global University.<br>
-I'm interested in DL & ML and Embedded System.<br>
+I'm Goeun Lee, an undergraduate at Handong Global University.<br>
+I'm interested in DL & ML and Devops Engineering.<br>
 
 👩🏻‍💻Experience & Education
 -------------
@@ -25,18 +25,23 @@ Handong University Deep Learning Lab 2020.05 ~ <br>
 * 2020.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; | Machine Learning camp   <a href = "https://github.com/jacinder/2020_MLcamp">Machine Learning Camp repo</a>
 * 2020.07 ~ 2021.07 | Machine Learning based anomaly detection for smart factory project <br>
 * 2021.05 ~ 2021.06 | Embedded Project using NUCLEOF411RE <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">/Design Simple Roadway System Prjoect Repo</a>
-* 2021.04 ~ 2021.06 | Korean Reunification Paper & Scolar Documents Search Engine
+* 2021.04 ~ 2021.06 | Korean Reunification Paper & Scolar Documents Search Engine<br>
 * 2021.08 ~&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;| TTS project<br>
+* 2021.10 ~&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;| Shoes Search Engine<br>
 
 🛠 Tech stack
 -------------
 <!-- <img src="?style=flat-square&logo=&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/-C-orange?logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Java-brown?logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-MySQL-blue?logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-PyTorch-yellow?logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-PyTorch-lemon?logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-sklearn-important?logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Flask-navy?logo=flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/-ARM-violet"/></a>
+
 
 
 
