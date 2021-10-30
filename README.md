@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 👋 Hi there!
 -------------
 I'm Goeun Lee, an undergraduate at Handong Global University.<br>
-I'm interested in DL & ML and Devops Engineering.<br>
 
 👩🏻‍💻Experience & Education
 -------------
