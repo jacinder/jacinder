@@ -21,12 +21,12 @@ I'm Goeun Lee, an undergraduate at Handong Global University.<br>
 -------------
 Handong Global University (Computer Science) 2018.02 ~ <br>
 Handong Global University Deep Learning Lab 2020.05 ~ <br>
-* 2020.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; | Machine Learning camp   <a href = "https://github.com/jacinder/2020_MLcamp">Machine Learning Camp repo</a>
-* 2020.07 ~ 2021.07 | Machine Learning based anomaly detection for smart factory project <br>
-* 2021.05 ~ 2021.06 | Embedded Project using NUCLEOF411RE <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">/Design Simple Roadway System Prjoect Repo</a>
-* 2021.04 ~ 2021.06 | Korean Reunification Paper & Scolar Documents Search Engine<br>
-* 2021.08 ~&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;| TTS project<br>
-* 2021.10 ~&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;| Shoes Search Engine<br>
+
+* 2020.07 ~ 2021.07 | [AI] Machine Learning based anomaly detection for smart factory project <br>
+* 2021.05 ~ 2021.06 | [Embedded]Embedded Project using NUCLEOF411RE <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">/Design Simple Roadway System Prjoect Repo</a>
+* 2021.04 ~ 2021.06 | [BE]Korean Reunification Paper & Scolar Documents Search Engine<br>
+* 2021.08 ~&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;| [AI] TTS project<br>
+* 2021.10 ~&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;| [BE] Shoes Search Engine<br>
 
 🛠 Tech stack
 -------------
