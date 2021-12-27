@@ -19,8 +19,8 @@ I'm Goeun Lee, an undergraduate at Handong Global University.<br>
 
 👩🏻‍💻Experience & Education
 -------------
-Handong Global University (Computer Science) 2018.02 ~ <br>
-Handong Global University Deep Learning Lab 2020.05 ~ <br>
+Handong Global University (Computer Science) 2018.02 ~ 2022.02 <br>
+Handong Global University Deep Learning Lab 2020.05 ~ 2021.12 <br>
 
 * 2020.07 ~ 2021.07 | [AI] Machine Learning based anomaly detection for smart factory project <br>
 * 2021.05 ~ 2021.06 | [Embedded]Embedded Project using NUCLEOF411RE <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">/Design Simple Roadway System Prjoect Repo</a>
