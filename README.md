@@ -25,8 +25,8 @@ Handong Global University Deep Learning Lab 2020.05 ~ 2021.12 <br>
 * 2020.07 ~ 2021.07 | [AI] Machine Learning based anomaly detection for smart factory project <br>
 * 2021.05 ~ 2021.06 | [Embedded]Embedded Project using NUCLEOF411RE <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">/Design Simple Roadway System Prjoect Repo</a>
 * 2021.04 ~ 2021.06 | [BE]Korean Reunification Paper & Scolar Documents Search Engine<br>
-* 2021.08 ~&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;| [AI] TTS project<br>
-* 2021.10 ~&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;| [BE] Shoes Search Engine<br>
+* 2021.08 ~ 2021.12 | [AI] TTS project<br>
+* 2021.10 ~ 2021.12 | [BE] Shoes Search Engine<br>
 
 🛠 Tech stack
 -------------
