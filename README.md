@@ -22,13 +22,13 @@ I'm Goeun Lee, an undergraduate at Handong Global University.<br>
 Handong Global University (Computer Science) 2018.02 ~ 2022.02 <br>
 Handong Global University Deep Learning Lab 2020.05 ~ 2021.12 <br>
 
-* 2020.07 ~ 2021.07 | [AI] Machine Learning based anomaly detection for smart factory project <br>
-* 2021.05 ~ 2021.06 | [Embedded] Embedded Project using NUCLEOF411RE <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">  👉Repo</a>
-* 2021.04 ~ 2021.06 | [BE] Korean Reunification Paper & Scolar Documents Search Engine<br>
-* 2021.08 ~ 2021.12 | [AI] TTS Research Project<br>
-* 2021.10 ~ 2021.12 | [BE] Shoes Search Engine Project<br>
-* 2021.11 ~ 2021.12 | [Embedded] Qt Project using raspberry pi <a href="https://github.com/jacinder/Electric-Scooter-Infotainment-System">  👉Repo</a>
-* 2021.12 ~ 2022.01 | [AI&BE] Smart Closet Project <a href='https://github.com/jacinder/smart-closet'>  👉Repo </a>
+* 2020.07 ~ 2021.07 | &nbsp;[AI] Machine Learning based anomaly detection for smart factory project <br>
+* 2021.05 ~ 2021.06 | &nbsp;[Embedded] Embedded Project using NUCLEOF411RE <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">  👉Repo</a>
+* 2021.04 ~ 2021.06 | &nbsp;[BE] Korean Reunification Paper & Scolar Documents Search Engine<br>
+* 2021.08 ~ 2021.12&nbsp; | &nbsp;[AI] TTS Research Project<br>
+* 2021.10 ~ 2021.12&nbsp; | &nbsp;[BE] Shoes Search Engine Project<br>
+* 2021.11&nbsp; ~ 2021.12&nbsp; | &nbsp;[Embedded] Qt Project using raspberry pi <a href="https://github.com/jacinder/Electric-Scooter-Infotainment-System">  👉Repo</a>
+* 2021.12 ~ 2022.01&nbsp; | &nbsp;[AI&BE] Smart Closet Project <a href='https://github.com/jacinder/smart-closet'>  👉Repo </a>
 
 🛠 Tech stack
 -------------
