@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 👋 Hi there!
 -------------
-I'm Goeun Lee, an undergraduate at Handong Global University.<br>
+I'm Goeun Lee, interested in AI & Computer System
 
 👩🏻‍💻Experience & Education
 -------------
