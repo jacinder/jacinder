@@ -19,8 +19,18 @@ I'm Goeun Lee, interested in AI & Computer System
 
 👩🏻‍💻Experience & Education
 -------------
-Handong Global University (Computer Science) 2018.02 ~ 2022.02 <br>
-Handong Global University Deep Learning Lab 2020.05 ~ 2021.12 <br>
+- Handong Global University 
+  - Computer Science
+  - 2018.02 ~ 2022.02 <br>
+- Handong Global University Deep Learning Lab
+  - An undergraduate researcher
+  - 2020.05 ~ 2021.12 <br>
+- KT
+  - Project Manager
+  - 2021.12 ~ 2022.02 <br>
+- LG CNS
+  - Cloud Architect
+  - 2022.05 ~ <br>
 
 * 2020.07 ~ 2021.07 | &nbsp;[AI] Machine Learning based anomaly detection for smart factory project <br>
 * 2021.05 ~ 2021.06 | &nbsp;[Embedded] Embedded Project using NUCLEOF411RE <a href = "https://github.com/jacinder/DesignSimpleRoadwaySystem_NUCLEOF411RE">  👉Repo</a>
