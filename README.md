@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 👋 Hi there!
 -------------
-I'm Goeun Lee, interested in AI & Computer System
+I'm Goeun Lee
+So far, I've been doing AI projects and Embedded projects.
+Currently I'm working as Cloud/Infra Architecture in LG CNS.
 
 👩🏻‍💻Experience & Education
 -------------
@@ -29,7 +31,7 @@ I'm Goeun Lee, interested in AI & Computer System
   - Project Manager
   - 2021.12 ~ 2022.02 <br>
 - LG CNS
-  - Cloud Architect
+  - Cloud/Infra Architecture
   - 2022.05 ~ <br>
 
 * 2020.07 ~ 2021.07 | &nbsp;[AI] Machine Learning based anomaly detection for smart factory project <br>
@@ -39,7 +41,8 @@ I'm Goeun Lee, interested in AI & Computer System
 * 2021.10 ~ 2021.12&nbsp; | &nbsp;[BE] Shoes Search Engine Project<br>
 * 2021.11&nbsp; ~ 2021.12&nbsp; | &nbsp;[Embedded] Qt Project using raspberry pi <a href="https://github.com/jacinder/Electric-Scooter-Infotainment-System">  👉Repo</a>
 * 2021.12 ~ 2022.01&nbsp; | &nbsp;[AI&BE] Smart Closet Project <a href='https://github.com/jacinder/smart-closet'>  👉Repo </a>
-* 2022.03 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;[Cloud] AWS certificate solution architect study <a href='https://highgracelee.tistory.com/category/AWS'> 👉Blog</a><br>
+* 2022.03 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;[Cloud] AWS certificate solution architect study
+
 
 🛠 Tech stack
 -------------
@@ -53,6 +56,7 @@ I'm Goeun Lee, interested in AI & Computer System
 <img src="https://img.shields.io/badge/-Flask-navy?logo=flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/-ARM-violet"/></a>
+<img src="https://img.shields.io/badge/kubernetes-blue?logo=kubernetes&logoColor=white"/>
 
 
 
