@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 👋 Hi there!
 -------------
-I'm Goeun Lee
-So far, I've been doing AI projects and Embedded projects.
+I'm Goeun Lee<br>
+So far, I've been doing AI projects and Embedded projects.<br>
 Currently I'm working as Cloud/Infra Architecture in LG CNS.
 
 👩🏻‍💻Experience & Education
