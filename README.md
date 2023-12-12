@@ -41,8 +41,7 @@ Currently I'm working as Cloud/Infra Architecture in LG CNS.
 * 2021.10 ~ 2021.12&nbsp; | &nbsp;[BE] Shoes Search Engine Project<br>
 * 2021.11&nbsp; ~ 2021.12&nbsp; | &nbsp;[Embedded] Qt Project using raspberry pi <a href="https://github.com/jacinder/Electric-Scooter-Infotainment-System">  👉Repo</a>
 * 2021.12 ~ 2022.01&nbsp; | &nbsp;[AI&BE] Smart Closet Project <a href='https://github.com/jacinder/smart-closet'>  👉Repo </a>
-* 2022.03 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;[Cloud] AWS certificate solution architect study
-
+* 2023.01 ~ 2023.12&nbsp; | &nbsp;[INFRA] Design & Build Infra System in Smart Factory Quality Control System Project 
 
 🛠 Tech stack
 -------------
@@ -58,7 +57,14 @@ Currently I'm working as Cloud/Infra Architecture in LG CNS.
 <img src="https://img.shields.io/badge/-ARM-violet"/></a>
 <img src="https://img.shields.io/badge/kubernetes-blue?logo=kubernetes&logoColor=white"/>
 
-
+✨ Certification
+-------------
+- 2022.01 AIFB Associate
+- 2022.10 CKA(Certified Kubernetes Administrator)
+- 2022.10 Korea Engineer Information Processing (정보처리기사)
+- 2023.03 AWS Certified Solutions Architect - Associate
+- 2023.06 Microsoft Certified Azure Administrator Associate
+- 2023.10 Microsoft Certified Azure Solutions Architect Expert
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjacinder&count_bg=%23E77FBB&title_bg=%23335784&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>  
