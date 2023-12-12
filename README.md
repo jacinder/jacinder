@@ -60,11 +60,11 @@ Currently I'm working as Cloud/Infra Architecture in LG CNS.
 ✨ Certification
 -------------
 - 2022.01 AIFB Associate
-- 2022.10 CKA(Certified Kubernetes Administrator)
+- 2022.10 CKA (Certified Kubernetes Administrator)
 - 2022.10 Korea Engineer Information Processing (정보처리기사)
 - 2023.03 AWS Certified Solutions Architect - Associate
-- 2023.06 Microsoft Certified Azure Administrator Associate
-- 2023.10 Microsoft Certified Azure Solutions Architect Expert
+- 2023.06 Azure 104 (Microsoft Certified Azure Administrator Associate)
+- 2023.10 Azure 305 (Microsoft Certified Azure Solutions Architect Expert)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjacinder&count_bg=%23E77FBB&title_bg=%23335784&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>  
